@@ -5,3 +5,5 @@
 #and also asking my github profile name
 
 # git diff command equivalent to diff comand in linux
+
+# create new branch git branch branch_name
