@@ -3,3 +3,5 @@
 
 #Why git is asking mailid ??
 #and also asking my github profile name
+
+# git diff command equivalent to diff comand in linux
